@@ -1,0 +1,25 @@
+{
+  "name": "tap-tempo",
+  "version": "0.0.0",
+  "description": "Estimates BPM from tap events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/tap-tempo.git"
+  },
+  "keywords": [
+    "midi",
+    "bpm",
+    "tap",
+    "tempo",
+    "web audio"
+  ],
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
