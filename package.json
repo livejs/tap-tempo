@@ -1,6 +1,6 @@
 {
   "name": "tap-tempo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Estimates BPM from tap events",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,5 @@
   ],
   "author": "Matt McKegg",
   "license": "MIT",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
