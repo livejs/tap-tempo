@@ -18,6 +18,7 @@ module.exports = function(){
     }
     lastTime = time
     beginTimeout()
+    tapTempo.emit('tap')
   }
 
   function refresh(){
